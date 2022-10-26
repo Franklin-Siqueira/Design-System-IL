@@ -61,9 +61,12 @@ npm run storybook
 
 ### Github CLI (install) and Repo Creation
 
+Repository: Design-System-IL
+
 ```shell
 brew install gh
 gh auth login
 gh repo create
-git remote add origin git@github.com:Franklin-Siqueira/design-system-il.git
+git branch -M main
+git remote add origin git@github.com:Franklin-Siqueira/Design-System-IL.git
 ````
