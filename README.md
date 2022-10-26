@@ -46,7 +46,8 @@ npm run dev`
 ### At second shell window
 
 `shell
-npm run storybook`
+npm run storybook
+`
 
 ### Github CLI (install) and Repo Creation
 
