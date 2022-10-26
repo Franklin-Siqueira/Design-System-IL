@@ -54,4 +54,4 @@ npm run storybook`
 brew install gh
 gh auth login
 gh repo create
-git remote add origin git@github.com:Franklin-Siqueira/design-system-il.git`
+git remote add origin git@github.com:Franklin-Siqueira/design-system-il.git
