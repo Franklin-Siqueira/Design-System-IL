@@ -5,6 +5,8 @@ import React from 'react'
 import ReactDOM from 'react-dom'
 //
 import { App } from './App'
+
+// Changed to [1] due to compatibility
 // import './index.css'
 
 // ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
@@ -13,6 +15,7 @@ import { App } from './App'
 //   </React.StrictMode>
 // )
 
+// [1]
 ReactDOM.render(
   <React.StrictMode>
     <App />

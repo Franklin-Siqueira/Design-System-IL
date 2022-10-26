@@ -1,3 +1,6 @@
+// Copyright 2022 Franklin Siqueira.
+// SPDX-License-Identifier: Apache-2.0
+
 import React from 'react';
 import { ComponentStory, ComponentMeta } from '@storybook/react';
 import { within, userEvent } from '@storybook/testing-library';

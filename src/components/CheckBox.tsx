@@ -1,11 +1,11 @@
 // Copyright 2022 Franklin Siqueira.
 // SPDX-License-Identifier: Apache-2.0
 
-import { ReactNode } from 'react';
+// import { ReactNode } from 'react';
 // import { Slot } from '@radix-ui/react-slot'
 import * as CheckBoxPrimitive from '@radix-ui/react-checkbox';
 import { Check } from 'phosphor-react'
-import { clsx } from 'clsx'
+// import { clsx } from 'clsx'
 
 export interface CheckBoxProps extends CheckBoxPrimitive.CheckboxProps {
   // children: ReactNode;
