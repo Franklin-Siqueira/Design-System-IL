@@ -32,7 +32,7 @@ export const Default: StoryObj = {
     const canvas = within(canvasElement)
 
     userEvent.type(canvas.getByPlaceholderText('Type your e-mail address here...'), 'franklinsiqueira@yahoo.com')
-    userEvent.type(canvas.getByPlaceholderText('******'), '12345678')
+    userEvent.type(canvas.getByPlaceholderText('********'), '12345678')
 
     userEvent.click(canvas.getByRole('button'))
 

@@ -22,7 +22,7 @@ module.exports = {
   ],
   viteFinal: (config, { configType }) => {
     if (configType === 'PRODUCTION') {
-      config.base = '/Franklin-Siqueira/il-design-system/'
+      config.base = '/Design-System-IL/'
     }
     return config
   },

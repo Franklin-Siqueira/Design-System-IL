@@ -1,9 +1,8 @@
 // Copyright 2022 Franklin Siqueira.
 // SPDX-License-Identifier: Apache-2.0
 
-import { themes } from '@storybook/theming'
-
 import '../src/assets/styles/global.css';
+import { themes } from '@storybook/theming'
 import { initialize, mswDecorator } from 'msw-storybook-addon';
 
 // Initialize MSW
