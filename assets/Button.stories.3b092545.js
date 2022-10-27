@@ -1,0 +1,2 @@
+import{B as t}from"./Button.47f86844.js";import"./index.module.3abe2ceb.js";import"./index.c291cdd1.js";import"./iframe.22e8438e.js";import"./clsx.m.256e9345.js";import"./jsx-runtime.0127978e.js";const p={title:"Components/Button",component:t,args:{children:"Lorem ipsum Button...",size:"md"},argTypes:{}},i={},a=["Default"];export{i as Default,a as __namedExportsOrder,p as default};
+//# sourceMappingURL=Button.stories.3b092545.js.map
